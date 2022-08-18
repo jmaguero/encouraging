@@ -1,0 +1,1 @@
+console.log("Not everything will work out right away, but more important than the goal is to walk all the way through enjoying the journey. Trust yourself, keep going, you'll get there, your dreams will come true!")
